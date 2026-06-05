@@ -1,0 +1,6 @@
+langgraph
+langchain-groq
+groq
+python-dotenv
+ipykernel
+streamlit
