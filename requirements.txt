@@ -4,3 +4,4 @@ groq
 python-dotenv
 ipykernel
 streamlit
+langgraph-checkpoint-sqlite
