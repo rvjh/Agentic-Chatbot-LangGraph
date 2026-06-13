@@ -5,3 +5,5 @@ python-dotenv
 ipykernel
 streamlit
 langgraph-checkpoint-sqlite
+langchain-tavily
+tavily-python
