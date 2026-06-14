@@ -7,3 +7,4 @@ streamlit
 langgraph-checkpoint-sqlite
 langchain-tavily
 tavily-python
+huggingface_hub
