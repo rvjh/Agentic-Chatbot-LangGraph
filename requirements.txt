@@ -10,3 +10,7 @@ tavily-python
 huggingface_hub
 uvicorn
 fastapi
+langchain_google_genai
+langchain
+langchain-google
+langchain-community
