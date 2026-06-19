@@ -31,7 +31,7 @@ The system can process user requests, reason through tasks, maintain conversatio
 
 The screenshot below shows the chatbot successfully processing a user query and generating a contextual response.
 
-![Application Output](images\Chatbot_Output.png)
+![Application Output](images/Chatbot_Output.png)
 
 ---
 
@@ -39,7 +39,7 @@ The screenshot below shows the chatbot successfully processing a user query and 
 
 LangGraph provides detailed execution tracing, allowing developers to visualize node execution, state transitions, and workflow paths. This greatly improves debugging, observability, and workflow validation.
 
-![LangGraph Tracing](images\Tracing.png)
+![LangGraph Tracing](images/Tracing.png)
 
 ---
 
