@@ -15,3 +15,4 @@ langchain
 langchain-google
 langchain-community
 langmem
+agentops
