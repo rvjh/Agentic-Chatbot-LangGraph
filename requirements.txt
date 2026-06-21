@@ -16,3 +16,6 @@ langchain-google
 langchain-community
 langmem
 agentops
+faiss-cpu
+pypdf
+langchain-text-splitters
